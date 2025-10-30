@@ -52,18 +52,6 @@ Comprehensive data mining project analyzing movie datasets using advanced machin
 - Maximum 30 pages project report
 - Implementation of all required modules
 
-## Repository Structure
-```
-├── notebooks/
-│   ├── module0_data_preparation.ipynb
-│   ├── module1_preprocessing.ipynb
-│   ├── module2_advanced_ml.ipynb
-│   └── module3_time_series.ipynb
-├── data/
-├── src/
-├── results/
-└── report.pdf
-```
 
 ## Course Information
 **Data Mining: Advanced Topics and Applications (DM2)**  
